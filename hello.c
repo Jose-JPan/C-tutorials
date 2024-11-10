@@ -6,6 +6,4 @@ int main() {
     // Code starts here
     printf("Vai se Foder!\n"); // prints text to the screen
     return 0; // Exit the program
-    
-
 }
