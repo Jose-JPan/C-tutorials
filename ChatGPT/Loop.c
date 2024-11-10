@@ -5,4 +5,10 @@ int main() {
         printf("%d\n", i); // Prints numbers from 0 to 4
     }
     return 0;
+
+    // OUTPUT: 0
+    // 	       1
+    // 	       2
+    // 	       3
+    // 	       4
 }
