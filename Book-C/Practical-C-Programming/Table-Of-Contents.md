@@ -8,71 +8,71 @@
         - Download the color images
         - Conventions used
     -> Sections
-        - How to do it&#x2026;
-        - How it works&#x2026;
-        - There's more&#x2026;
+        - How to do it;
+        - How it works;
+        - There's more;
         - See also
     -> Get in touch
         - Reviews
 ### 1 - Working with Arrays
         . Inserting an element in an array
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
             $ There's more...
         . Multiplying two matrices
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
-            There&#x2019;s more&#x2026;
+            There is more;
         . Fiding the common elements in two arrays
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Fiding the difference between two sets or arrays
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Fiding the unique elements in an array
-            $ How to do it&#x2026;&#xA0;
+            $ How to do it;
             $ How it works...
         . Fiding whether a matrix is sparse
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
             $ There's more...
         . Merging two sorted arrays into a single array
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
 
 ### 2 - Managing Strings
-        . Determining whether the string is a palindrome&#xA0;
-            $ How to do it&#x2026;
+        . Determining whether the string is a palindrome;
+            $ How to do it;
             $ How it works...
         . Finding the ocurrence of the first repetitive character in a string
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Displaying the count of each character in a string
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Counting vowels and consoants in a sentence
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Converting the vowels in a sentence to uppercase
-            $ How to do it&#x2026; 
+            $ How to do it; 
             $ How it works... 
 
 ### 3 - Exploring Functions
         . What is a stack?
         . Finding whether a number is an Armstrong number
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Returning maximum and minimum values in an array
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Finding the greatest common divisor using recursion
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Converting a binary number into a hexadecimal number
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
-        . Fiding whether a number is a palindrome&#xA0;
-            $ How to do it&#x2026;
+        . Fiding whether a number is a palindrome;
+            $ How to do it;
             $ How it works...
 
 ### 4 - Preprocessing and Compilation
@@ -83,7 +83,7 @@
             $ How to do it...
             $ How it works...
         . Using assertions to ensure a pointer is not pointing to NULL
-            $ How to do it&#x2026;
+            $ How to do it;
             $ How it works...
         . Catching errors early with compile-time assertions 
             $ How to do it...
@@ -95,17 +95,17 @@
 ### 5 - Deep Dive into Pointers
         . What is a pointer?
         . Reversing a string using pointers
-            $ How to do it&#x2026;              
+            $ How to do it;              
             $ How it works...
         . Fiding the largest value in an array using pointers
-            $ How to do it &#x2026;
+            $ How to do it;
             $ How it works...
         . Sorting a singly linked list
-            $ How to do it&#x2026;   
+            $ How to do it;   
             $ How it works...
                 @ Creating a singly linked list
                 @ Sorting the singly linked list
-                    > The first&#xA0;iteration
+                    > The first iteration
                     > The second&#xA0;iteration
                     > The third&#xA0;and fourth&#xA0;iterations
         . Fiding the transpose of a matrix using pointers
