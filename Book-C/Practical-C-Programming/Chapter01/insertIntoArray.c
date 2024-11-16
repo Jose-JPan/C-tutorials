@@ -10,28 +10,29 @@ int main()
     int p[max], n,i,k,j;
 
     printf("Enter length of array:");
-
-    scanf("%d", &n);
+    scanf("%d", &n); // 5
 
     printf ("Enter %d elements of array \n", n);
-
     for(i=0; i<=n-1; i++)
-
-        scanf("%d",&p[i]);
-
+        scanf("%d", &p[i]); // 1 2 3 4 5
+    
     printf("\n The array is:\n");
-
-
-
     for(i=0; i<=n-1; i++)
-        printf("%d\n", p[i]);
+        printf("%d\n", p[i]); // 1 2 3 4 5
+
     printf("\n Enter position where to insert:");
-    scanf("%d", &k);
-    k--; // The position is always one value higher than the subscript, so it is decremented by one
+    scanf("%d", &k); // 3
+    k--;            // The position is always one value higher than the subscript, so it is decremented by one
+  
     for(j=n-1; j>=k; j--)
-        p[j+1] = p[j]; // Shifting all the elements of the array one position down from the location of insertion
+        p[j+1] = p[j]; // Shifting all the elements after the location of insertion [2] one position up.
+                       //  p[5] = 5
+                       //  p[4] = 4
+                       //  p[3] = 3
+                       //  p[2] = ?
     printf("\n Enter the value to insert:");
-    scanf("%d", &p[k]);
+    scanf("%d", &p[k]); // p[2] = 25
+
     printf("\n Array after insertion of element: \n");
     for(i=0; i<=n; i++)
         printf("%d\n", p[i]);
