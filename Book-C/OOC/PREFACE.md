@@ -55,4 +55,19 @@
 
 ## Refining Technology
     The following chapters refine our technology. In chapter eight we add dynamic 
-    type
+    type checking to catch our mistakes earlier on. In chapter nine we arrange for
+    automatic initialization to prevent another class of bugs. Chapter ten introduces
+    delegates and shows how classes and callback functions cooperate to simplify, for
+    example, the constant chore of producing standard main programs. More chapters 
+    are concerned with plugging memory leaks by using class methods, storing and loa-
+    ding structured data with a coherent strategy, and disciplined error recovery 
+    through a system of nested exception handlers.
+
+## Implementing Mouse-Operated Calculator
+    Finally, in the last chapter we leave the confines of ANSI-C and implement the 
+    obligatory mouse-operated calculator, first for curses and then for the X Window
+    System. This example neatly demonstrates how elegantly we can design and imple-
+    ment, using objects and classes, even if we have to cope with the idiosyncrasies
+    of foreign libraries and class hierarchies. 
+
+## 
