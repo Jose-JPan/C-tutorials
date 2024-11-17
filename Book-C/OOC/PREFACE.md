@@ -32,3 +32,9 @@
     and I will try to demonstrate how it merely combines all the good programming 
     principles that you always wanted to employ into a coherent approach. As a result
     you may will become a more proficiente ANSI-C programmer. 
+
+## Chapters
+    The first six chapters develop the fundations of object-oriented programming with     ANSI-C. We start with a careful information hiding technique for abstract data 
+    types, add generic functions based on dynamic linkage and inherit code by 
+    judicious lengthening of structures. Finally, we put it all together in a class
+    hierarchy that makes code much easier to maintain.
