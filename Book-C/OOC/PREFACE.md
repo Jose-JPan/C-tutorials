@@ -39,3 +39,10 @@
     types, add generic functions based on dynamic linkage and inherit code by 
     judicious lengthening of structures. Finally, we put it all together in a class
     hierarchy that makes code much easier to maintain.
+
+## Having Discipline
+    Programming takes discipline. Good programming takes a lot of discipline, a large
+    number of principles, and standard, defensive ways of doing things right. Pro-
+    grammers use tools.Good programmers make tools to dispose of routine tasks once
+    and for all. Object-oriented programming with ANSI-C requires a fair amount of
+    immutable code -- names may change but not the structures.
