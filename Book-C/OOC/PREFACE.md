@@ -43,6 +43,10 @@
 ## Having Discipline
     Programming takes discipline. Good programming takes a lot of discipline, a large
     number of principles, and standard, defensive ways of doing things right. Pro-
-    grammers use tools.Good programmers make tools to dispose of routine tasks once
+    grammers use tools. Good programmers make tools to dispose of routine tasks once
     and for all. Object-oriented programming with ANSI-C requires a fair amount of
-    immutable code -- names may change but not the structures.
+    immutable code -- names may change but not the structures. Therefore, in chapter
+    seven we build a small preprocessor to create the boilerplate required. It looks
+    like yet another new object-oriented dialect language (yanoodi perhaps?) but it
+    should not be viewed as such -- it gets the dull parts out of the way and lets us
+    concentrate on the creative aspects of problem solving with better techniques.
