@@ -70,4 +70,33 @@
     ment, using objects and classes, even if we have to cope with the idiosyncrasies
     of foreign libraries and class hierarchies. 
 
-## 
+## How it will go
+    Each chapter has a summary where I try to give the more cursory reader a rundown
+    on the happening in the chapter and their importance for future work. Most chap-
+    ters suggest some exercises; however, they are not spelled out formally, because
+    I firmly believe that one should experiment on one's own. Because we are building
+    the techniques from scratch, I have refrained from making and using a massive
+    class library, even though some examples could have benefited from it. If you
+    want to understand  object-oriented programming, it is more important to first 
+    master the techniques and consider your options in code design; dependece on so-
+    mebody else's library for your developments should come a bit later.
+
+## Maybe not so relevant
+    An important part of this book is the enclosed source floppy -- it has DOS file
+    system containing a single shell script to create all the sources arranged by 
+    chapter. There is a ReadMe file -- consult it before you say make. It is also 
+    quite instructive to use a program like diff and trace the evolution of the root
+    classes and ooc reports through the later chapters.
+
+## My disenchantment with C++
+    The techniques described here grew out of my disenchantment with C++ when I need
+    object-oriented techniques to implement an interactive programming language and
+    realized that I could not forge a portable implementation in C++. I turned to 
+    what I knew, ANSI-C, and I was perfectly able to do what I had to. I have shown 
+    this to a number of people in courses and workshops and others have used the me-
+    thods to get their jobs done. It would have stopped there as my footnote to a fad,
+    if Brian kernighan and my publishers, Hans-Joachim Niclas and John Wait, had not
+    encouraged me to publish the notes (and in due course to reinvent it all once mo-
+    re). My thanks go to them and to all those who helped with and suffured through
+    the evolution of this book. Last not least I thank my family -- and no, object-
+    orientation will not replace sliced bread. 
