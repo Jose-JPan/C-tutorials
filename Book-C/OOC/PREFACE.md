@@ -15,13 +15,13 @@
     programmers always carried their toolkits and libraries with them.
 
 ## About the book
-    This book is not going to praise object-oriented programming or condemn the Old Way.
+    This book is not going to praise object-oriented programming or condemn the Old Wa    y.
     We are simply going to use ANSI-C to discover how object-oriented programming is 
     done, what its techniques are, why they help us solve bigger problems, and how 
     we generality and program to catch mistakes earlier. Along the way we encounter
     all the jargon - classes, inheritance, instances, linkage, methods, objects, 
     polymorphisms, and more - but we take it out of the realm of magic and see how it 
-translates into the things we have known and done all along.
+    translates into the things we have known and done all along.
 
 ## Nice Discovery
     I had fun discovering that ANSI-C is a full-scale object-oriented language.
