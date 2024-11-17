@@ -16,7 +16,8 @@
 
 ## About the book
     This book is not going to praise object-oriented programming or condemn the Old 
-    Way. We are simply going to use ANSI-C to discover how object-oriented programming    is done, what its techniques are, why they help us solve bigger problems, and how 
+    Way. We are simply going to use ANSI-C to discover how object-oriented programming
+    is done, what its techniques are, why they help us solve bigger problems, and how 
     we generality and program to catch mistakes earlier. Along the way we encounter
     all the jargon - classes, inheritance, instances, linkage, methods, objects, 
     polymorphisms, and more - but we take it out of the realm of magic and see how it 
