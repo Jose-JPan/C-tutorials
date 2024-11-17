@@ -89,9 +89,9 @@
     classes and ooc reports through the later chapters.
 
 ## My disenchantment with C++
-    The techniques described here grew out of my disenchantment with C++ when I need
-    object-oriented techniques to implement an interactive programming language and
-    realized that I could not forge a portable implementation in C++. I turned to 
+    The techniques described here grew out of my disenchantment with C++ when I 
+    needed object-oriented techniques to implement an interactive programming language    
+    and realized that I could not forge a portable implementation in C++. I turned to 
     what I knew, ANSI-C, and I was perfectly able to do what I had to. I have shown 
     this to a number of people in courses and workshops and others have used the me-
     thods to get their jobs done. It would have stopped there as my footnote to a fad,
