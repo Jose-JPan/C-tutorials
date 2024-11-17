@@ -25,9 +25,10 @@
 
 ## Nice Discovery
     I had fun discovering that ANSI-C is a full-scale object-oriented language.
-    To share this fun you need to be reasonably fluent in ANSI-C to begin with -- feeling 
-comfortable with structure, pointers, prototypes, and function pointers is a must. 
-Working through the book you will encounter all the newspeak -- according to 
-Orwell and Webster a language "designed to diminish the range of thought" -- and
-I will try to demonstrate how it merely combines all the good programming principles
-that you always wanted to employ into a coherent approach. As a result, you may will become a more proficiente ANSI-C programmer. 
+    To share this fun you need to be reasonably fluent in ANSI-C to begin with -- 
+    feeling comfortable with structure, pointers, prototypes, and function pointers is
+    a must. Working through the book you will encounter all the newspeak -- according 
+    to Orwell and Webster a language "designed to diminish the range of thought" -- 
+    and I will try to demonstrate how it merely combines all the good programming 
+    principles that you always wanted to employ into a coherent approach. As a result
+    you may will become a more proficiente ANSI-C programmer. 
