@@ -8,7 +8,7 @@
 int main()
 {
     int p[max], n,i,k,j;
-
+    
     printf("Enter length of array:");
     scanf("%d", &n); // 5
 
