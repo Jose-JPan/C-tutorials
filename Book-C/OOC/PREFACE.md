@@ -49,4 +49,10 @@
     seven we build a small preprocessor to create the boilerplate required. It looks
     like yet another new object-oriented dialect language (yanoodi perhaps?) but it
     should not be viewed as such -- it gets the dull parts out of the way and lets us
-    concentrate on the creative aspects of problem solving with better techniques.
+    concentrate on the creative aspects of problem solving with better techniques. 
+    ooc (sorry) is pliable: we have made it, we understand it and can change it, and 
+    it writes the ANSI-C code just like we would.
+
+## Refining Technology
+    The following chapters refine our technology. In chapter eight we add dynamic 
+    type
