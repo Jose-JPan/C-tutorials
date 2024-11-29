@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/CMakeFiles/bootloader
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/CMakeFiles/bootloader.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/CMakeFiles/bootloader-complete.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/josoares/Code/C/SunFounder/Plain-C/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
